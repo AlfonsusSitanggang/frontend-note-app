@@ -1,5 +1,5 @@
 runtime: nodejs20
-service: frontend-note-app
+service: default
 
 automatic_scaling:
   target_cpu_utilization: 0.65
